@@ -230,8 +230,8 @@ h3 {
 }
 
 .card {
-    height: 465px;
-    width: 335px;
+    height: 400px;
+    width: 300px;
     padding: 20px 35px;
     background: #191919;
     border-radius: 20px;
@@ -373,6 +373,10 @@ h3 {
     text-align: center;
     margin-top: 0;
     padding-bottom: 200px;
+}
+
+.cover h2 i {
+    color: #c43902;
 }
 
 .last {
