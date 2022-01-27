@@ -374,3 +374,70 @@ h3 {
     margin-top: 0;
     padding-bottom: 200px;
 }
+
+.last {
+    background: #191919;
+    width: 100%;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.last a {
+    text-decoration: none;
+}
+
+.social {
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+    margin: 10px;
+    background-color: #c43902;
+    border-radius: 50%;
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.social i {
+    font-size: 30px;
+    line-height: 90px;
+    transition: 0.3s;
+}
+
+.social i:hover {
+    color: #c43902;
+    transform: scale(1.5);
+}
+
+.social::before {
+    content: "";
+    position: absolute;
+    background-color: white;
+    width: 120%;
+    height: 120%;
+    transform: rotate(45deg);
+    right: -110%;
+    top: 90%;
+}
+
+.social:hover::before {
+    animation: subs 0.8s 1;
+    top: -10%;
+    right: -10%;
+}
+
+@keyframes subs {
+    0% {
+        right: -110%;
+        top: 90%;
+    }
+    50% {
+        right: 10%;
+        top: 30%;
+    }
+    100% {
+        right: -10%;
+        top: -30%;
+    }
+}
+
