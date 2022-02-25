@@ -2,7 +2,7 @@
 
 >> ###### Challenges:
 >> - [x] Responsive design
->> - [x] CSS Animations
+>> - [x] CSS animations
 
 ![Screenshot](images/screenshot.png)
 
