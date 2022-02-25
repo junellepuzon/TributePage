@@ -7,6 +7,6 @@
 ![Screenshot](images/screenshot.png)
 
 >> ###### Sources:
->> - Tahmid Ahmed [Youtube tutorial](https://www.youtube.com/watch?v=lgeoAUvoRJU)
+>> - Tahmid Ahmed's [Youtube tutorial](https://www.youtube.com/watch?v=lgeoAUvoRJU)
 >> - Mitch Albom's [website](https://www.mitchalbom.com)
->> - Say Detroit [website](https://saydetroit.org)
+>> - Say Detroit's [website](https://saydetroit.org)
