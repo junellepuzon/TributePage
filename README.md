@@ -3,7 +3,7 @@
 >> ###### Challenges:
 >> - [x] Responsive design
 >> - [x] CSS Animations
-![Screnshot](../images/screenshot.png)
+![Screenshot](images/screenshot.png)
 
 >> ###### Sources:
 >> - Tahmid Ahmed [Youtube tutorial](https://www.youtube.com/watch?v=lgeoAUvoRJU)
