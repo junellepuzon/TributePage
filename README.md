@@ -1,8 +1,8 @@
 ### ✨ [Tribute Page (Click to see live version)](https://tribute-page-zeta.vercel.app)
 
 >> ###### Challenges:
->> - * Responsive design
->> - * CSS animations
+>> - Responsive design
+>> - CSS animations
 
 ![Screenshot](images/screenshot.png)
 
