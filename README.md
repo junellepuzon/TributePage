@@ -3,6 +3,7 @@
 >> ###### Challenges:
 >> - [x] Responsive design
 >> - [x] CSS Animations
+
 ![Screenshot](images/screenshot.png)
 
 >> ###### Sources:
